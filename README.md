@@ -57,28 +57,22 @@
     <h1>UJJAWAL PRASAD</h1>
     <p>B.Tech (CSE) - 1st Year</p>
 </header>
-
 <section class="container">
     <h2>About Me</h2>
     <p>Write a brief introduction about yourself, your interests in computer science, and what you hope to achieve in your studies.</p>
-
     <h2>Skills</h2>
     <ul>
         <li>Programming Languages: Python, HTML</li>
         <li>Tools:Codetantra,V.S.code</li>
     </ul>
-
     <h2>Education</h2>
     <p>B.Tech in Computer Science Engineering, [Lovely Professional University], [2024] - Present</p>
-
     <h2>Contact</h2>
     <p>Email: <a href="mailto:prasadujjwal211@gmail.com">prasadujjwal211@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/ujjawal-prasad-226b34321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Ujjawal's LinkedIn</a></p>
 </section>
-
 <footer>
     <p>&copy; 2024 UJJAWAL PRASAD</p>
 </footer>
-
 </body>
 </html>
